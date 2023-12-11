@@ -50,7 +50,6 @@ The Tokokita project is licensed under [insert license name]. Please refer to th
 
 For any inquiries or permission requests regarding the Tokokita project, please contact:
 
-Radityo +62 838-45153385
 raditssk@gmail.com
 
 **Note: This README is confidential and should not be reproduced, published, or distributed without the explicit permission of the owner.**
