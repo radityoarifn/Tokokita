@@ -27,7 +27,7 @@ Tokokita is a project aimed at creating an online marketplace platform for indiv
 
 ## Installation and Setup
 
-1. Clone the repository from [GitHub link].
+1. Clone the repository from https://github.com/radityoarifn/Tokokita.git.
 2. Install the required dependencies listed in the `requirements.txt` file.
 3. Set up the PostgreSQL database and configure the database settings in the project's settings file.
 4. Run the database migrations using the Django command `python manage.py migrate`.
