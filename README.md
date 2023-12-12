@@ -44,7 +44,7 @@ We welcome contributions from the community to enhance the Tokokita project. If 
 
 ## License
 
-The Tokokita project is licensed under https://github.com/radityoarifn/Tokokita/blob/6e9e6d14c56a71ed66b800077f825c5dcc960f06/LICENSE. Please refer to the LICENSE file for more details.
+The Tokokita project is licensed under [insert license name]. Please refer to the LICENSE file for more details.
 
 ## Contact Information
 
