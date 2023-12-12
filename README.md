@@ -44,7 +44,7 @@ We welcome contributions from the community to enhance the Tokokita project. If 
 
 ## License
 
-The Tokokita project is licensed under MIT License. Please refer to the LICENSE file for more details.
+The Tokokita project is licensed under [MIT License](LICENSE). Please refer to the LICENSE file for more details.
 
 ## Contact Information
 
