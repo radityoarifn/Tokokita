@@ -1,1 +1,166 @@
 
+/* Global styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  
+  /* Hero section */
+  .hero {
+    background-color: #f2f2f2;
+    text-align: center;
+    padding: 80px 0;
+  }
+  
+  .hero h1 {
+    font-size: 36px;
+    color: #333;
+  }
+  
+  .hero p {
+    font-size: 18px;
+    color: #666;
+  }
+  
+  /* Sub Hero section */
+  .sub-hero {
+    background-color: #fff;
+    text-align: center;
+    padding: 60px 0;
+  }
+  
+  .sub-hero h2 {
+    font-size: 30px;
+    color: #333;
+  }
+  
+  .sub-hero p {
+    font-size: 16px;
+    color: #666;
+  }
+  
+  /* Layouts section */
+  .layouts {
+    background-color: #f2f2f2;
+    text-align: center;
+    padding: 60px 0;
+  }
+  
+  .layouts h2 {
+    font-size: 30px;
+    color: #333;
+  }
+  
+  .layouts p {
+    font-size: 16px;
+    color: #666;
+  }
+  
+  /* Product section */
+  .product {
+    background-color: #fff;
+    text-align: center;
+    padding: 60px 0;
+  }
+  
+  .product h2 {
+    font-size: 30px;
+    color: #333;
+  }
+  
+  /* Testimonial section */
+  .testimonial {
+    background-color: #f2f2f2;
+    text-align: center;
+    padding: 60px 0;
+  }
+  
+  .testimonial h2 {
+    font-size: 30px;
+    color: #333;
+  }
+  
+  /* Call to Action section */
+  .cta {
+    background-color: #333;
+    text-align: center;
+    padding: 80px 0;
+  }
+  
+  .cta h2 {
+    font-size: 36px;
+    color: #fff;
+  }
+  
+  .cta p {
+    font-size: 18px;
+    color: #fff;
+  }
+  
+  /* Footer section */
+  .footer {
+    background-color: #333;
+    text-align: center;
+    padding: 20px 0;
+  }
+  
+  .footer p {
+    font-size: 14px;
+    color: #fff;
+  }
+  
+  /* Responsive styles */
+  @media (max-width: 768px) {
+    
+      .hero h1 {
+      font-size:28px ;
+     }
+  
+     .hero p {
+      font-size:16px ;
+     }
+  
+     .sub-hero h2 {
+      font-size:24px ;
+     }
+  
+     .sub-hero p {
+      font-size:14px ;
+     }
+  
+     .layouts h2 {
+      font-size:24px ;
+     }
+  
+     .layouts p {
+      font-size:14px ;
+     }
+  
+     .product h2 {
+      font-size:24px ;
+     }
+  
+     .testimonial h2 {
+      font-size:24px ;
+     }
+  
+     .cta h2 {
+      font-size:28px ;
+     }
+  
+     .cta p {
+      font-size:16px ;
+     }
+  
+     .footer p {
+      font-size:12px ;
+     }
+  }
+  
